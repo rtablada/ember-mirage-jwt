@@ -1,3 +1,5 @@
+import Mirage from 'ember-cli-mirage';
+
 const user = {
   email: 'user@email.com',
 };
